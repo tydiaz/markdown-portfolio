@@ -1,1 +1,2 @@
-Replace this with a link to your a GitHub or social media profile.
+[GitHub](http://github.com/tydiaz)
+[AWS Cert](https://credly.com/badges/fd96dc58-770a-4959-9f42-8fdd57f93600/public_url)
